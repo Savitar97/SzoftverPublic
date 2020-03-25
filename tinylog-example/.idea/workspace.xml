@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ab115af-32b3-4cd6-a82c-7cddecca1413" name="Default Changelist" comment="" />
+    <list default="true" id="9ab115af-32b3-4cd6-a82c-7cddecca1413" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../stream-playground-master/asd.json" beforeDir="false" afterPath="$PROJECT_DIR$/../stream-playground-master/asd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stream-playground-master/src/main/java/countries/Countries.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stream-playground-master/src/main/java/countries/Countries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -40,6 +48,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZctuVd3m2UGAlQACj4g4TBWadu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,6 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stream-playground-master" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
@@ -82,6 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585150433123</updated>
       <workItem from="1585150439304" duration="3593000" />
+      <workItem from="1585155324834" duration="324000" />
     </task>
     <servers />
   </component>
@@ -89,6 +100,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585155330624">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1585155330624" />
     <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1585153435391">
       <screen x="70" y="27" width="1296" height="741" />
     </state>

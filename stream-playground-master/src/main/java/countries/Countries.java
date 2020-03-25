@@ -104,18 +104,5 @@ public class Countries  {
     public static void main(String[] args) {
     Countries ct=new Countries();
         System.out.println(ct.feladat9());
-    Gson gson=new Gson();
-    String json=gson.toJson(ct);
-        System.out.println(json);
-        try {
-            FileWriter fw=new FileWriter("asd.json");
-            fw.write(json);
-            fw.append('\n');
-            fw.close();
-
-        }catch (IOException e)
-        {
-            e.printStackTrace();
-        }
     }
 }
