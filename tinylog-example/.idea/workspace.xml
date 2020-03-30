@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ab115af-32b3-4cd6-a82c-7cddecca1413" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../stream-playground-master/asd.json" beforeDir="false" afterPath="$PROJECT_DIR$/../stream-playground-master/asd.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stream-playground-master/src/main/java/countries/Countries.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stream-playground-master/src/main/java/countries/Countries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ip-geolocator-master/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ip-geolocator-master/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ip-geolocator-master/src/main/resources/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ip-geolocator-master/src/main/resources/tinylog.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ip-geolocator-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ip-geolocator-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ip-geolocator-master/src/main/java/geolocator/GeoLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ip-geolocator-master/src/main/java/geolocator/GeoLocator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tinylog.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tinylog.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stream-playground-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
@@ -93,6 +98,8 @@
       <updated>1585150433123</updated>
       <workItem from="1585150439304" duration="3593000" />
       <workItem from="1585155324834" duration="324000" />
+      <workItem from="1585155994458" duration="652000" />
+      <workItem from="1585596048155" duration="1353000" />
     </task>
     <servers />
   </component>
@@ -100,33 +107,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585155330624">
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585156002722">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1585155330624" />
-    <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1585153435391">
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1585156002722" />
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1585596766437">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1585153435391" />
-    <state width="1250" height="172" key="GridCell.Tab.0.center" timestamp="1585153435391">
+    <state width="1250" height="172" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1585596766437" />
+    <state width="1250" height="172" key="GridCell.Tab.0.center" timestamp="1585596766437">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1585153435391" />
-    <state width="1250" height="172" key="GridCell.Tab.0.left" timestamp="1585153435390">
+    <state width="1250" height="172" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1585596766437" />
+    <state width="1250" height="172" key="GridCell.Tab.0.left" timestamp="1585596766436">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1585153435390" />
-    <state width="1250" height="172" key="GridCell.Tab.0.right" timestamp="1585153435391">
+    <state width="1250" height="172" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1585596766436" />
+    <state width="1250" height="172" key="GridCell.Tab.0.right" timestamp="1585596766437">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="172" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1585153435391" />
+    <state width="1250" height="172" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1585596766437" />
     <state x="251" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1585150978976">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="251" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog/70.27.1296.741@70.27.1296.741" timestamp="1585150978976" />
-    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585150439276">
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585155995203">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1585150439276" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1585155995203" />
   </component>
 </project>
