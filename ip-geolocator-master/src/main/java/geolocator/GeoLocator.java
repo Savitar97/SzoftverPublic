@@ -61,7 +61,7 @@ public class GeoLocator {
         } else {
 
             url = new URL(GEOLOCATOR_SERVICE_URI);
-            logger.info("Uses your current location! Your current location is {}",url);
+            logger.info("Uses your current location! Your current location is downloaded from: {}",url);
         }
         String s = IOUtils.toString(url, "UTF-8");
         return GSON.fromJson(s, GeoLocation.class);
