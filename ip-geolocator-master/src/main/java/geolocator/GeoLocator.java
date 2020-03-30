@@ -75,7 +75,7 @@ public class GeoLocator {
             logger.debug("Debugging {}",new GeoLocator().getGeoLocation("www.google.hu"));
         } catch (IOException e) {
             System.err.println(e.getMessage());
-            logger.error("I/O error", e.getMessage());
+            logger.error("I/O error: {}", e.getMessage());
         }
     }
 
