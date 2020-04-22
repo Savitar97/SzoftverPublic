@@ -4,7 +4,6 @@
     <list default="true" id="9ab115af-32b3-4cd6-a82c-7cddecca1413" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ip-geolocator-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ip-geolocator-master/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ip-geolocator-master/src/main/java/geolocator/GeoLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ip-geolocator-master/src/main/java/geolocator/GeoLocator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +95,7 @@
       <workItem from="1585596048155" duration="1353000" />
       <workItem from="1585601499489" duration="15000" />
       <workItem from="1585752068217" duration="320000" />
+      <workItem from="1586128381221" duration="19000" />
     </task>
     <servers />
   </component>

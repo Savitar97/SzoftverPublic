@@ -12,6 +12,8 @@ import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+
+
 /**
  * Class for obtaining geolocation information about an IP address or host
  * name. The class uses the <a href="http://ip-api.com/">IP-API.com</a>

@@ -1,0 +1,31 @@
+<Configuration status="WARN">
+    <CustomLevels>
+        <CustomLevel name="VIOLATION" intLevel="150" />
+        <CustomLevel name="REQUEST" intLevel="350" />
+    </CustomLevels>
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%highlight{%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n}"/>
+        </Console>
+        <File name="MyFile" fileName="logs/gyorfi_pal.log">
+            <PatternLayout pattern="%d %-7level %logger{36} - %msg%n"/>
+        </File>
+        <RollingFile name="RollingFile" fileName="logs/messages.log"
+                     filePattern="logs/messages%i.log.zip">
+            <PatternLayout>
+                <Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="1 KB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="all">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="MyFile" level="VIOLATION"/>
+            <AppenderRef ref="RollingFile"/>
+        </Root>
+    </Loggers>
+</Configuration>
